@@ -1,2 +1,8 @@
 master源代码
+<<<<<<< HEAD
 master源代码--fix
+=======
+
+
+devCode
+>>>>>>> dev
