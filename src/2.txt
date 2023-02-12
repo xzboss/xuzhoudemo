@@ -13,7 +13,11 @@ devCode
 
 远端修改code
 
+<<<<<<< HEAD
 
 本地冲突
 
 demo01用户code
+=======
+远端冲突
+>>>>>>> aae7e2b20c80d9a259bfdab74c7925c5a422441c
